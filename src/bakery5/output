@@ -1,0 +1,42 @@
+debug:
+Starting clerk and customer threads
+customer 10001 has entered the shop
+Customer 10001 takes ticket 1
+customer 10003 has entered the shop
+Customer 10003 takes ticket 2
+customer 10008 has entered the shop
+Customer 10008 takes ticket 3
+customer 10010 has entered the shop
+Customer 10010 takes ticket 4
+customer 10007 has entered the shop
+Customer 10007 takes ticket 5
+  Clerk serving ticket 1
+Customer with ticket 1 has left the shop 
+customer 10005 has entered the shop
+Customer 10005 takes ticket 6
+  Clerk serving ticket 2
+Customer with ticket 2 has left the shop 
+customer 10002 has entered the shop
+Customer 10002 takes ticket 7
+  Clerk serving ticket 3
+Customer with ticket 3 has left the shop 
+customer 10006 has entered the shop
+Customer 10006 takes ticket 8
+  Clerk serving ticket 4
+Customer with ticket 4 has left the shop 
+customer 10004 has entered the shop
+Customer 10004 takes ticket 9
+  Clerk serving ticket 5
+Customer with ticket 5 has left the shop 
+customer 10009 has entered the shop
+Customer 10009 takes ticket 10
+  Clerk serving ticket 6
+Customer with ticket 6 has left the shop 
+  Clerk serving ticket 7
+Customer with ticket 7 has left the shop 
+  Clerk serving ticket 8
+Customer with ticket 8 has left the shop 
+  Clerk serving ticket 9
+Customer with ticket 9 has left the shop 
+  Clerk serving ticket 10
+Customer with ticket 10 has left the shop 
